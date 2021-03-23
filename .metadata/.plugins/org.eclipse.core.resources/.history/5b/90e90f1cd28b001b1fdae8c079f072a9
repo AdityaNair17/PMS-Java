@@ -1,0 +1,11 @@
+package com.example.pms.model;
+
+public class EmergencyContact {
+
+	private String firstName;
+	private String lastName;
+	private String relationship;
+	private String email;
+	private Address address;
+	private int contact;
+}

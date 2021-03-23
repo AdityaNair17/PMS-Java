@@ -1,0 +1,24 @@
+package com.example.pms.model;
+
+import java.util.Date;
+import java.util.List;
+
+
+enum Gender{
+	MALE, FEMALE
+}
+
+public class PatientDto {
+	
+	private String firstName;
+	private String lastName;
+	private Date dateOfBirth;
+	private int age;
+	private Gender gender;
+	private String race;
+	private String ethnicity;
+	private List<String> languages;
+	private String email;
+	private Address address;
+	private int contact;
+}

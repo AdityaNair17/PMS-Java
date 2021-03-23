@@ -1,0 +1,8 @@
+package com.example.pms.model;
+
+public class Allergies {
+
+	private String allergyName;
+	private String allergyType;
+	private String fatalityLevel;
+}

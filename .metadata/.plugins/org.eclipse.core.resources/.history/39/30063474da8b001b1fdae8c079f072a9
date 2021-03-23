@@ -1,0 +1,15 @@
+package com.example.pms.model;
+
+import java.util.List;
+
+public class PatientVisitDto {
+
+	private String visitId;
+	private String patientId;
+	private Vitals patientVitals;
+	private List<Diagnosis> diagnosis;
+	private List<Medication> medications;
+	private List<Procedure> procedure;
+	
+	
+}

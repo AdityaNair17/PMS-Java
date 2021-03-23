@@ -1,0 +1,9 @@
+package com.example.pms.model;
+
+public class Diagnosis {
+
+	private String diagnosisCode;
+	private String diagnosisName;
+	private String description;
+	
+}

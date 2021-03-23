@@ -1,0 +1,11 @@
+package com.example.pms.model;
+
+import java.util.Date;
+
+public class PatientDto {
+	
+	private String firstName;
+	private String lastName;
+	private Date dateOfBirth;
+	
+}

@@ -1,0 +1,11 @@
+package com.example.pms.model;
+
+public class Vitals {
+
+	private int height;
+	private float weight;
+	private int systolicBloodPressure;
+	private int diastolicBloodPressure;
+	private float bodyTemperature;
+	private int respirationRate;
+}

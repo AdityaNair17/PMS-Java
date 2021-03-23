@@ -1,0 +1,5 @@
+package com.example.pms.model;
+
+public class Diagnosis {
+
+}
